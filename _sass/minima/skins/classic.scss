@@ -1,7 +1,7 @@
 @charset "utf-8";
 
-$brand-color:           #0187D2 !default;
-$brand-color-light:     lighten($brand-color, 40%) !default;
+$brand-color:           #004e7a !default;
+$brand-color-light:     lighten($brand-color, 10%) !default;
 $brand-color-dark:      darken($brand-color, 25%) !default;
 
 $site-title-color:      $brand-color-dark !default;
@@ -19,8 +19,8 @@ $border-color-02:       lighten($brand-color, 35%) !default;
 $border-color-03:       $brand-color-dark !default;
 
 $table-text-color:      lighten($text-color, 18%) !default;
-$table-zebra-color:     lighten($brand-color, 46%) !default;
-$table-header-bg-color: lighten($brand-color, 43%) !default;
-$table-header-border:   lighten($brand-color, 37%) !default;
-$table-border-color:    $border-color-01 !default;
+$table-zebra-color:     lighten($brand-color, 72%) !default;
+$table-header-bg-color: lighten($brand-color, 72%) !default;
+$table-header-border:   lighten($brand-color, 60%) !default;
+$table-border-color:    lighten($brand-color, 60%) !default;
 
