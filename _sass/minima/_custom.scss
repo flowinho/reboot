@@ -116,4 +116,9 @@ code[class*=language-], pre[class*=language-] {
     @include relative-font-size(0.7);
     color: gray;
     text-align: center;
+
+    a {
+      text-decoration: underline;
+      color: gray;
+    }
   }
