@@ -1,20 +1,16 @@
 h1, h2, h3, h4, h5, h6 {
     font-family: "Merriweather-Regular";
 }
-.site-header {
-    font-family: "Mulish-Regular";
-}
-
 code[class*=language-], pre[class*=language-] {
   font-size: 0.9em;
   line-height: 1.3em;
 }
 .site-title {
-    @include relative-font-size(1.4);
-    font-weight: 300;
-    letter-spacing: -1px;
+    @include relative-font-size(1.3);
+    font-family: "Coiny-Regular";
     margin-bottom: 0;
     float: left;
+    text-transform: uppercase;
   
     @include media-query($on-palm) {
       padding-right: 45px;
