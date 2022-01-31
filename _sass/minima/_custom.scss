@@ -112,3 +112,8 @@ code[class*=language-], pre[class*=language-] {
     }
   }
   
+  .footer-subtext {
+    @include relative-font-size(0.7);
+    color: gray;
+    text-align: center;
+  }
