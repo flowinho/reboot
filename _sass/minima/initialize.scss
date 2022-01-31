@@ -2,8 +2,9 @@
 
 // Define defaults for each variable.
 
-$base-font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
+$base-font-family: "Mulish-Regular", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
 $code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+$header-font-family: "Merriweather-Regular", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -14,7 +15,7 @@ $spacing-unit:     30px !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    1100px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
@@ -45,6 +46,8 @@ $on-large:         $on-laptop !default;
 @import
   "minima/custom-variables", // Hook to override predefined variables.
   "minima/base",             // Defines element resets.
+  "minima/fonts",            // Defines custom-fonts
+  "minima/custom",            // Defines custom-changes made by me
   "minima/layout",           // Defines structure and style based on CSS selectors.
   "minima/custom-styles"     // Hook to override existing styles.
 ;
