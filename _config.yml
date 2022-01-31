@@ -35,6 +35,7 @@ header_pages:
   - about.md
 
 # This is to disable Rouge, Jekylls default syntax highlighter on GitHub Pages
+show_excerpts: true
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
