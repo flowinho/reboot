@@ -122,7 +122,7 @@ Die Lösung des Problems: Dem C++-Team das KnowHow an die Hand geben um, idealer
 
 ## Aber Flo, was lernen wir jetzt daraus?
 
-Tendenziell könnte man nun hingehen, und klassisch analysieren, *wer* sich *wann* falsch verhalten hat. Natürlich ohne sich Gegenseitig die Schuld zu geben[^4] sondern um etwas daraus zu lernen. 
+Tendenziell könnte man nun hingehen und klassisch analysieren, *wer* sich *wann* falsch verhalten hat. Natürlich ohne sich Gegenseitig die Schuld zu geben[^4] sondern um Etwas daraus zu lernen. 
 
 Eine klassiche Analyse wäre:
 
