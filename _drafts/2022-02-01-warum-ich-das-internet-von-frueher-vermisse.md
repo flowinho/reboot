@@ -12,7 +12,7 @@ Es war die Zeit der Partybilder-Websites, von mySpace und LastFM, von Fireball S
 
 Diese Websites waren genauso verhasst wie sie glohrreich waren: schließlich prägten sie, neben frühen Porno-Portalen[^1], doch das Gesicht des Internets. Verrückte Animationen überall, wie etwa der überall zur Weihnachtszeit beliebte Schnee, der beschissen animiert auf Interface-Element der Website fiel. Vertikal am Bildschirmrand angeordnete Buttons, die die Website-Navigation darstellten. 
 
-Besucherzähler.
+Besucherzähler. Oder Gästebücher! Erinnert sich noch wer an Gästebücher auf Websites?
 
 Mit dem Aufschlag der Smartphones veränderte sich etwas. Wie sagte Steve Jobs (ungefähr)? "Ein Musikspieler, eine Kamera, ein Telefon und ein Web-Browser - in einem Gerät." Menschen hatten auf einmal Kameras und Internetzugang wo auch immer sie hingingen. Das befähigte endlich auch Menschen dazu Online-Inhalte zu erstellen, die technisch nicht versiert waren. Zugegeben, anfangs waren mobile Websiten für Smartphones noch sehr rudimentär, aber der Grundstein war gelegt. Menschen waren unterwegs, wollten Bilder ihrer Erlebnisse mit Freunden und Familie teilen, wollten darüber berichten, was sie erlebt hatten, was sie aßen, was sie gesehen hatten,.. und so weiter und so weiter. Das ist nur allzu menschlich.
 
@@ -22,13 +22,14 @@ Warum vermisse ich diese alten Webseiten?
 
 ## Die wenigsten Menschen betreiben heutzutage eine persönliche Website
 
-Denn warum sollte man auch? Das allgemeine Mitteilungsbedürfnis wird bereits von sozialen Netzwerken gestillt. Auf die meisten Anwendungsfälle persönlicher Websites haben soziale Websites eine angenehme, niedrig-schwellige Antwort.
+Denn warum sollte man auch? Das allgemeine Mitteilungsbedürfnis wird bereits von sozialen Netzwerken gestillt. Auf die meisten privaten Anwendungsfälle persönlicher Websites haben soziale Websites eine angenehme, niedrig-schwellige Antwort.
 
 |Anwendungsfall|Soziales Netzwerk (-Feature)|
 |:--|:--|
-|Familie, Freunden und Bekannten Fotos und / oder Videos meiner Erlebnisse zeigen.|Facebook Bildergalerien, Instagram, WhatsApp-Gruppen.|
+|Familie, Freunden und Bekannten Fotos und / oder Videos meiner Erlebnisse zeigen.|Facebook Bildergalerien, Instagram, WhatsApp-Gruppen, YouTube.|
 |Kurze oder lange Berichterstattungen über meine Erlebnisse.|Facebook Statusaktualisierung, Instagram- / WhatsApp-Stories.|
 |Weitergabe meiner Kontaktmöglichkeiten|Info-Felder in Facebook, oder einfach direkt Facebook-Messenger, WhatsApp.|
+
 
 
 
