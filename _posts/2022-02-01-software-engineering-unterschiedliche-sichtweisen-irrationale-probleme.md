@@ -31,7 +31,7 @@ Egal in welche Bereiche des Lebens man blickt, seien es Beziehungen zu anderen M
 
 Die Problemstellung:
 
-> Ein Team aus C++-Entwicklern entwicklet eine Komponente, die gleichermaßen in eine Android-App, wie in eine iOS-App eingebunden werden soll. Das iOS-Team schafft es aber nicht die Bibliothek, die das C++-Team zur Verfügung stellt, in ihre Software zu integrieren, während es das Android-Team problemlos hinbekommt.
+> Ein Team aus C++-Entwicklern entwickelt eine Komponente, die gleichermaßen in eine Android-App, wie in eine iOS-App eingebunden werden soll. Das iOS-Team schafft es aber nicht die Bibliothek, die das C++-Team zur Verfügung stellt, in ihre Software zu integrieren, während es das Android-Team problemlos hinbekommt.
 
 Nachdem ein kurzer Block auf den Code - wie erwartet - leider keine direkte Schlussfolgerung zulies, bat ich um ein Treffen mit den iOS-Kollegen. Ein gemeinsamer Chatroom wurde eingerichtet, und wir begannen uns zu unterhalten, jeder basierend auf seinem Kenntnissstand der Problematik. 
 
