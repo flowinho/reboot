@@ -141,7 +141,9 @@ Aber sind den Mitgliedern dieses Teams ihre Verantwortlichkeiten überhaupt klar
 
 Bestimmt sind Sie das vermutlich. Aber *versteht* sie auch jedes Team Mitglied? In meinem alten Start-Up myScotty[^5] haben wir aus diesem Grund einen Workshop abgehalten. Jedes Teammitglied sollte seine Definition der Aufgaben-, Verantwortungs- und Entscheidungsbereiche von Positionen wie Product Owner, System Architect, Backend Developer, App Developer, Tester, etc. aufschreiben und dann wurde gemeinsam diskutiert. Der Workshop ergab, nach über zwei Tagen, was zu erwarten war:
 
-Jeder Mensch hat aufgrund seiner persönlichen Erfahrungen innerhalb einer oder mehreren Firmen und / oder Projekten ganz individuelle Definitionen dieser Rollen angetroffen und für sich ein Verständnis dieser Rollen abgeleitet. Es ist also immer davon auszugehen, dass diese unterschiedlichen Sichtweisen zwangsläufig zu Problemen innerhalb des Teams führen werden.
+<div class="side-note">
+Jeder Mensch hat aufgrund seiner persönlichen Erfahrungen innerhalb einer oder mehreren Firmen und / oder Projekten ganz individuelle Definitionen der Rollen Product Owner, App Developer, Architect, etc angetroffen und für sich ein individuelles Verständnis dieser Rollen abgeleitet. Es ist also immer davon auszugehen, dass diese unterschiedlichen Sichtweisen zwangsläufig zu Problemen innerhalb des Teams führen werden, solange die Rollenaufgaben nicht gemeinsam erfasst werden.
+</div>
 
 Für dieses Team wäre mein Ratschlag also: Setzt euch zusammmen, reflektiert diese Geschehnisse und überlegt, wie es dazu kam, dass drei Entitäten einer Projektgruppe an einander vorbei gearbeitet haben. 
 
