@@ -105,7 +105,7 @@ Zeit, die einzelnen Sichtweisen auf die Problematik genauer zu betrachten:
         <ul>
             <li>Baut die Kernfunktionalität.</li>
             <li>Legt den Quellcode in Versions-Branches ab.</li>
-            <li>Hat den Anspruch, eine Bibliothek in die mobilen Anwendungen einzubinden, da sich eine solche leichter einbinden lässt.</li>
+            <li>Hat den Anspruch, eine Bibliothek in die mobilen Anwendungen einzubinden, da sich eine Library leichter einbinden und versionieren lässt.</li>
         </ul>
         <p>Missverständnis: Der Wunsch nach einer Bibliothek ist gut und richtig. Wir haben kein Android / iOS-KnowHow, also sollen die Teams die Bibliothek bauen.    </p>
     </div>
