@@ -127,3 +127,23 @@ code[class*=language-], pre[class*=language-] {
     padding: 12px;
     margin-bottom: 24px;
   }
+
+  .post-content img {
+    margin: 20px;
+  }
+
+  .side-note {
+    padding: 16px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    margin-left: 32px;
+    margin-right: 32px;
+    background-color: $table-header-bg-color;
+    border-radius: 10px;
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+  }
+
+  .col {
+    padding: 8px;
+  }
