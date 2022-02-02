@@ -147,3 +147,26 @@ code[class*=language-], pre[class*=language-] {
   .col {
     padding: 8px;
   }
+
+  .floating-infobox {
+    font-family: "Merriweather";
+    margin: 16px;
+    margin-left: 32px;
+    padding: 16px; 
+    background-color: #ffffcc;
+    border: 1px solid #e6e600;
+    color: #666600;
+
+    hr {
+      color: #e6e600;
+      margin-top: 8px;
+      margin-bottom: 8px;
+    }
+  }
+
+  @media (min-width: 900px) {
+    .floating-infobox {
+      float: right;
+      max-width: 320px;
+    }
+  }
