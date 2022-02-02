@@ -30,6 +30,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+permalink: /blog/:year/:title/
+
 # Minima settings
 header_pages:
   #- about.md
