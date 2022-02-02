@@ -34,7 +34,7 @@ permalink: /blog/:year/:title/
 
 # Minima settings
 header_pages:
-  #- about.md
+  - about.md
 
 # This is to disable Rouge, Jekylls default syntax highlighter on GitHub Pages
 show_excerpts: true
