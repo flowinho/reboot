@@ -129,7 +129,8 @@ code[class*=language-], pre[class*=language-] {
   }
 
   .post-content img {
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
 
   .side-note {
@@ -169,4 +170,22 @@ code[class*=language-], pre[class*=language-] {
       float: right;
       max-width: 320px;
     }
+    .floating-image-left {
+      float: left;
+      max-width: 480px;
+    }
+    .floating-image-right {
+      float: right;
+      max-width: 480px;
+    }
+  }
+
+  .floating-image-left {
+    margin: 16px;
+    margin-right: 32px;
+  }
+
+  .floating-image-right {
+    margin: 16px;
+    margin-right: 32px;
   }
