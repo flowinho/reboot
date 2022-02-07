@@ -6,7 +6,7 @@ author:
 excerpt: "Wenn ich Geocaching erwähne erhalte ich meistens dieselbe Reaktion: Wenn Menschen es kennen, begannen  Sie es meistens euphorisch, aber hörten recht schnell wieder damit auf. Warum ich Geocaching nach wie vor für einen wundervollen Zeitvertreib halte, warum es insbesondere für Kindern und deren Eltern eine schöne Erfahrung ist und wie es meinen Blick auf die Welt veränderte, möchte ich in diesem Post zum Ausdruck bringen."
 ---
 
-Wenn ich Geocaching erwähne erhalte ich meistens dieselbe Reaktion: Wenn Menschen es kennen, begannen  Sie es meistens euphorisch, aber hörten recht schnell wieder damit auf. Warum ich Geocaching nach wie vor für einen wundervollen Zeitvertreib halte, warum es insbesondere für Kindern und deren Eltern eine schöne Erfahrung ist und wie es meinen Blick auf die Welt veränderte, möchte ich in diesem Post zum Ausdruck bringen.
+Wenn ich Geocaching erwähne erhalte ich meistens dieselbe Reaktion: Wenn Menschen es kennen, begannen Sie es meistens euphorisch, aber hörten recht schnell wieder damit auf. Warum ich Geocaching nach wie vor für einen wundervollen Zeitvertreib halte, warum es insbesondere für Kinder und deren Eltern eine schöne Erfahrung ist und wie es meinen Blick auf die Welt veränderte, möchte ich in diesem Post zum Ausdruck bringen.
 
 Zuallererst soll dieses, beim Geocaching in Schottland entstandene, Bild für sich sprechen:
 
@@ -117,5 +117,10 @@ Entscheidet sich ein Nutzer einen Cache selbst zu verstecken, hat er die Möglic
 
 Der Preis für den Zugang zu diesen Premium-Caches ist mit ungefähr 30€ im Jahr, also niedrigen 2.50€ pro Monat, meiner Meinung nach völlig gerechtfertigt, insbesondere wenn man bedenkt welch großer Aufwand hinter dem Verstecken und Pflegen sowohl der Premium-Caches als auch dem Betrieb der Plattform selbst steckt.
 
+## Mein Fazit nach einigen Jahren
 
+Insbesondere im Sommer möchte ich Geocaches nicht mehr missen. Es ist ein wundervolles Hobby und ich freue mich über jeden gefundenen Cache. Kinder haben ebenfalls viel Spass daran.
+
+Probiert es mal aus. Nur traditionelle Caches, keine Nanos, nur Schwierigkeit eins. 
+Ich freue mich über eure Berichte.
 
