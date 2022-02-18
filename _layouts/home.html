@@ -25,12 +25,17 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
         <div class="article-list-entry">
-          <!-- <img src="https://cloud.fschuttkowski.xyz/s/ZZ3GdXF82KgKJLs/download/IMG_0918.JPG"></img> -->
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           
           <a href="{{ post.url | relative_url }}">
             <h3>{{ post.title | escape }}</h3>
           </a>
+
+          {%- if post.imageURL -%}
+            <div class="article-image-container">
+              <img src="{{ post.imageURL }}" class="article-image" >
+            </div>
+          {%- endif -%}
           
           {%- if site.show_excerpts -%}
             {{ post.excerpt | truncatewords: 56 }}

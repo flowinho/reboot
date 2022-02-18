@@ -195,3 +195,20 @@ code[class*=language-], pre[class*=language-] {
       color: black;
     }
   }
+
+  .article-image-container {
+
+  }
+
+  .article-image {
+    width: 128px;
+    height: 128px;
+    object-fit:cover;
+    float: left;
+    margin-top: 4px;
+    margin-right: 12px;
+    margin-bottom: 0px;
+    border-radius:4px;
+    -webkit-filter: grayscale(0.3);
+        filter: grayscale(0.3);
+  }

@@ -4,6 +4,7 @@ title: "Was Geocaching ist und wie es meinen Blick auf die Welt veränderte"
 author:
 - Florian Schuttkowski
 excerpt: "Wenn ich Geocaching erwähne erhalte ich meistens dieselbe Reaktion: Wenn Menschen es kennen, begannen  Sie es meistens euphorisch, aber hörten recht schnell wieder damit auf. Warum ich Geocaching nach wie vor für einen wundervollen Zeitvertreib halte, warum es insbesondere für Kindern und deren Eltern eine schöne Erfahrung ist und wie es meinen Blick auf die Welt veränderte, möchte ich in diesem Post zum Ausdruck bringen."
+imageURL: https://cloud.fschuttkowski.xyz/s/TydjB3m3okjjXtr/download/IMG_0564.JPG
 ---
 
 Wenn ich Geocaching erwähne erhalte ich meistens dieselbe Reaktion: Wenn Menschen es kennen, begannen Sie es meistens euphorisch, aber hörten recht schnell wieder damit auf. Warum ich Geocaching nach wie vor für einen wundervollen Zeitvertreib halte, warum es insbesondere für Kinder und deren Eltern eine schöne Erfahrung ist und wie es meinen Blick auf die Welt veränderte, möchte ich in diesem Post zum Ausdruck bringen.
