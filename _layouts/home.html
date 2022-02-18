@@ -33,7 +33,9 @@ layout: default
 
           {%- if post.imageURL -%}
             <div class="article-image-container">
-              <img src="{{ post.imageURL }}" class="article-image" >
+              <a href="{{ post.url | relative_url }}">
+                <img src="{{ post.imageURL }}" class="article-image" >
+              </a>
             </div>
           {%- endif -%}
           
