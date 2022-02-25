@@ -8,7 +8,7 @@ Schon lange überlege ich nun hin und her, was ich auf meiner „About" Seite sc
 
 …
 
-Okay, das war vermutlich alles etwas zu übertrieben geschrieben. Schließlich geht es hier nur um die About-Seite von [derFlo.io](https://derflo.io "DerFlo.io"). Jedoch ließe sich aber argumentieren, dass ich meiner Website ja schreiben kann, was ich will, und nicht, was einer Konformität oder, noch schlimmer, SEO entspricht. Habt ihr gewusst, dass manche Authoren:Authorinnen den Text, der den:die Author:in beschreiben soll, so anpassen, dass er in Googles Ranking entsprechend weit oben auftaucht? 
+Okay, das war vermutlich alles etwas zu übertrieben geschrieben. Schließlich geht es hier nur um die About-Seite von [derFlo.io](https://derflo.io "DerFlo.io"). Jedoch ließe sich aber argumentieren, dass ich auf meiner Website ja schreiben kann, was ich will, und nicht, was einer Konformität oder, noch schlimmer, SEO entspricht. Habt ihr gewusst, dass manche Authoren:Authorinnen den Text, der den:die Author:in beschreiben soll, so anpassen, dass er in Googles Ranking entsprechend weit oben auftaucht? 
 
 > Floooooooo, schreib endlich was über dich.
 
