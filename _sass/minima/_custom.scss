@@ -212,3 +212,9 @@ code[class*=language-], pre[class*=language-] {
     -webkit-filter: grayscale(0.3);
     filter: grayscale(0.3);
   }
+
+  blockquote {
+    max-width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
