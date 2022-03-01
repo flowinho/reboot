@@ -90,6 +90,7 @@ Wann sollte also `open` zum Einsatz kommen?
 |Wenn eine Klasse von vornherein dafür gedacht ist, von außerhalb abgeleitet zu werden.|Wenn man sich unsicher ist ob eine Klasse `open` oder `public` sein sollte.|
 |Wenn absehbar ist, dass die Klasse außerhalb des definierenden Moduls verwendet werden soll, beispielsweise innerhalb eines Mocks.|Der Einfachheit halber.|
 ||Wenn gewährleistet werden soll, dass eine Klasse oder Methode nicht von außerhalb überschrieben werden darf, beispielsweise aus Sicherheitsgründen.|
+||Wenn Rückwärtskompatibilität zu älteren Swift- / Xcode-Versionen erforderlich ist.|
 
 Access Control Modifier existieren aus nachvollziehbaren und wichtigen Gründen. Sie geben an, wer Zugriff auf den Programmcode hat, und wer in die Lage versetzt werden soll, diesen zu ändern. Sie sollten bewusst und gewissenhaft verwenden werden.
 
