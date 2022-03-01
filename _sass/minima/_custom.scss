@@ -219,6 +219,19 @@ code[class*=language-], pre[class*=language-] {
     margin-right: 5%;
   }
 
+  .post-category {
+    background-color: rgb(229, 237, 241);
+    padding-left: 8px;
+    padding-right: 24px;
+    border-radius: 0px 0px 12px 0px;
+    margin-bottom: 12px;
+    margin-top: -24px;
+    display: inline-block;
+  }
+
+  .article-list-entry h3 {
+    margin-bottom: 4px;
+  }
   //FUN
   .fancy-schmancy {
     border: 14px solid pink;

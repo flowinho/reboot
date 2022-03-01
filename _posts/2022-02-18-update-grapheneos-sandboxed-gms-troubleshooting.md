@@ -4,6 +4,7 @@ title: "GrapheneOS Update: System assistiert bei Problemen mit Sandboxed Google 
 author:
 - Florian Schuttkowski
 excerpt: "Mit dem neuesten Update rüsten die Entwickler von GrapheneOS nun eine Funktion nach, die sich Potential issues nennt und in den Android Systemeinstellungen für Sandboxed Google Play zu finden ist. Das System assistiert dem Nutzer durch Aufzeigen von möglichen Problemen die auftreten können, falls Berechtigungen fehlen oder falsch konfiguriert sind."
+categories: smartphone
 imageURL: https://cloud.fschuttkowski.xyz/s/q83JeonpFbHw6Yt/download/Imagepipe_2.jpg
 ---
 

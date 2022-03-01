@@ -4,6 +4,7 @@ title: "Der faule Trick die eigene About-Seite in einen Blogpost zu verwandeln"
 author:
 - Florian Schuttkowski
 excerpt: "Schon lange überlege ich nun hin und her, was ich auf meiner About Seite schreiben könnte. Schließlich werden das viele Menschen lesen! Oder realistischer: die paar einzelnen Menschen, die sich auf diese Website verirren. Dafür kann sich der:die Leser:in dieses Textes sicher sein – selbst wenn er:sie zu den einigen wenigen Personen gehört, für die ich diese kleine Ode über mich selbst verfasst habe, ich habe es mit meinen Gedanken an dich, der:die du diesen Text gerade liest, verfasst!"
+categories: erkenntnis
 imageURL: https://cloud.fschuttkowski.xyz/s/zKgKdHafwK7JaJs/download/JPEG-Bild.jpeg
 ---
 

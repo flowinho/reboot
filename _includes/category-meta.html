@@ -1,0 +1,25 @@
+{% if post.categories.first %}
+    {% assign category = post.categories.first %}
+
+    {% assign icon = "dummy" %}
+
+    {% if category contains "swift" %}
+        {% assign icon = "fa-brands fa-swift" %}
+        
+    {% elsif category contains "jekyll" %}
+        {% assign icon = "fa-solid fa-code" %}
+
+    {% elsif category contains "erkenntnis" %}
+        {% assign icon = "fa-solid fa-lightbulb" %}
+
+    {% elsif category contains "smartphone" %}
+        {% assign icon = "fa-solid fa-mobile-button" %}
+
+    {% elsif category contains "spaß" %}
+        {% assign icon = "fa-solid fa-face-grin-beam" %}
+
+    {% endif %}
+    <div class="post-category">
+        <span><i class="{{ icon }}"></i>&nbsp;{{ category | capitalized }}</span>
+    </div>
+{% endif %}

@@ -4,6 +4,7 @@ title: "Software Engineering: Wenn unterschiedliche Sichtweisen zu irrationalen 
 author:
 - Florian Schuttkowski
 excerpt: "Egal in welche Bereiche des Lebens man blickt, seien es Beziehungen zu anderen Menschen, die Politik oder soziale Aktivtitäten, der Ratschlag “gute Kommunikation ist das Wichtigste” scheint universell zu gelten. Aber insbesondere in der Arbeitswelt können fehlende Kommunikation oder entstehende Missverständnisse sehr schnell zu weitreichenden Problemen, und damit Kosten, führen."
+categories: erkenntnis
 imageURL: https://cloud.fschuttkowski.xyz/s/LE3GfpHsnrYnCi8/download/MicrosoftTeams-image.jpg
 ---
 

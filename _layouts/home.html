@@ -38,6 +38,8 @@
           <a href="{{ post.url | relative_url }}">
             <h3>{{ post.title | escape }}</h3>
           </a>
+          
+          {% include category-meta.html %}
 
           {%- if post.imageURL -%}
             <div class="article-image-container">

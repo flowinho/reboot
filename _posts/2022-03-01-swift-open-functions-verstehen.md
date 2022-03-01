@@ -3,6 +3,7 @@ layout: post
 title: "Swift Access Control: Open vs Public verstehen und anwenden"
 author: Florian Schuttkowski
 excerpt: "Es ist mal wieder soweit. In einem meiner Projekte entbrennt eine Diskussion, der ich nun schon allzuhäufig begegnet bin. Es geht um die Access Control Modifier open und public. Also insbesondere um die Unterschiede zwischen open classes und public classes. Es ist Zeit, auch für mich, sich noch einmal im Detail mit diesen Schlüsselwörtern auseinanderzusetzen."
+categories: swift
 imageURL: "https://cloud.fschuttkowski.xyz/s/7cHqG6jAT7QNFkX/download/Screenshot%202022-03-01%20at%2009.03.06.png"
 ---
 

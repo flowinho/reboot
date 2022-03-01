@@ -4,6 +4,7 @@ title: "Pokémon-Legenden: Arceus - Ich hoffe es legt den Grundstein für kommen
 author:
 - Florian Schuttkowski
 excerpt: "Es ist mal wieder soweit: Ein neues Pokémon-Spiel steht an! Mit etwas Verzögerung starteten meine Partnerin und ich zwei Wochen nach Release unsere Reise in die Hisui-Region. Das dieser Teil der Serie anders wird als die vorherigen Titel, war klar, schließlich haben sich GameFreak und The Pokémon Company dazu entschieden, den klassischen Ablauf der Serien aufzuwirbeln und statt einer Kind-zieht-von-zu-Hause-los-um-Meister-zu-werden-Mechanik nun auf einen Open-World-Mechanismus, ähnlich The Legend of Zelda: Breath of the Wild, zu setzen. Aber genau dieser Aspekt sowie die vielen kleinen Details rücken die Pokémon nun stärker in den Fokus als sie es je waren - und genau das macht das Spiel so liebenswert."
+categories: spaß
 imageURL: https://cloud.fschuttkowski.xyz/s/m3EDkN5HCPQzzq9/download/2022021317390300-7CBCCE282CD36658AB28471FB4791102.jpg
 ---
 

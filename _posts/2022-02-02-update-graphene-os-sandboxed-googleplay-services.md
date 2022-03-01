@@ -4,6 +4,7 @@ title: "Weihnachten im Februar: GrapheneOS Sandboxed Google Services unterstütz
 author:
 - Florian Schuttkowski
 excerpt: "Nach meinem Wechsel von Apple iOS zu GrapheneOS blicke ich kaum mehr zu iOS zurück. Heute wurde nun endlich das letzte fehlende Teilstück hinzugefügt, dass es mir erlaubt auch den letzten Anwendungsfall vollständig auf GrapheneOS zu übertragen: die Sandboxed Google Play Services erhielten ein großes Update, dass die Google Location Accuracy API beinhaltet."
+categories: smartphone
 imageURL: https://cloud.fschuttkowski.xyz/s/q83JeonpFbHw6Yt/download/Imagepipe_2.jpg
 ---
 

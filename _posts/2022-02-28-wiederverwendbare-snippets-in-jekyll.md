@@ -3,6 +3,7 @@ layout: post
 title: "How-To: Code in Jekyll wiederverwenden"
 author: Florian Schuttkowski
 excerpt: "Programmcode wiederzuverwenden ist nahezu immer eine gute Sache. Die Akronyme DRY, Dont repeat yourself, und WET, Write everything twice, existieren nicht ohne Grund. Doch wie lässt sich Code innerhalb von Jekyll wiederverwenden? Die Lösung verbirgt sich in den Funktionalitäten von Liquid, dem technischen Unterbau von Jekyll."
+categories: jekyll
 imageURL: https://cloud.fschuttkowski.xyz/s/SXyzQ4nLWAnALwQ/download/sigmund-aI4RJ--Mw4I-unsplash.jpg
 ---
 
