@@ -6,7 +6,7 @@ excerpt: "
 Ein weiteres Thema, das immer wieder auftaucht: Wie genau werden Variablen in Swift deklariert? Was bedeuten die Worte Strong, Weak und Unowned? Was sind die Vorteile und Nachteile der jeweilige Schlüsselwörter? Und wann macht Unowned überhaupt Sinn?"
 categories: swift
 imageURL: "https://cloud.fschuttkowski.xyz/s/AGMyxLz5q8xbmcd/download/Screenshot%202022-03-01%20at%2014.27.48.png"
----
+--- 
 
 Ein weiteres Thema, das immer wieder auftaucht: Wie genau werden Variablen in Swift deklariert? Was bedeuten die Worte Strong, Weak und Unowned? Was sind die Vorteile und Nachteile der jeweilige Schlüsselwörter? Und wann macht `unowned` überhaupt Sinn?
 
