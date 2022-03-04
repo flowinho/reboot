@@ -7,7 +7,9 @@ excerpt: "Warum Nightly Builds für einen Blog? Die Antwort ist sehr simpel: um 
 imageURL: https://cloud.fschuttkowski.xyz/s/Qs5mkjfAz4GPDrD/download/cris-saur-GNUcUx-iObg-unsplash.jpg
 ---
 
-## Warum Nightly Builds für einen Blog?
+Foto: Chris Saur, Unsplash.com Lizenz
+
+Warum Nightly Builds für einen Blog?
 
 Die Antwort ist sehr simpel: um Beiträge planen zu können. Jekyll Blogs sind statische Webseiten, die in aller Regel durch einen Githook auf das "Push" Event auf einen Branch, normalerweise `master`, gebaut und deployed werden. Statische Webseiten sind deshalb so toll, weil sie über keinerlei Datenbanken oder sonstiges Backends verfügen, die die Auslieferung oder Anzeige der Seite bremsen könnten. 
 
