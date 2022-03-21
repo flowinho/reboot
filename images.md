@@ -4,7 +4,7 @@ title: Fotos
 permalink: /fotos/
 ---
 
-Eine kleine Auswahl.
+Alle Bildrechte vorbehalten. Die auf den Portraits dargestellten Personen haben ihre Einverständnis zur Veröffentlichung ihrer Fotos erteilt.
 
 <div uk-lightbox>
 <div class="gallery-grid">
