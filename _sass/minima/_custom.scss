@@ -262,7 +262,7 @@ code[class*=language-], pre[class*=language-] {
   /* First the Grid */
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   // grid-gap: 1.1rem;
   justify-items: center;
   margin: 0;
