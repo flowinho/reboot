@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kurzbeitrag: Nützliche 7zip alias für macOS / Linux"
-category: erkenntnis
+category: tipps
 author: Florian Schuttkowski
 excerpt: "7Zip ist ein Open-Source Archivierungsprogramm, das sich durch lange Existenz, Open-Source und Plattformunabhängigkeit auszeichnet.
 7Zip ist eines der langlebigsten Archivierungsprogramme und zeichnet sich durch kontinuierliche Weiterentwicklung seit 1999 aus."
