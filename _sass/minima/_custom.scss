@@ -293,3 +293,13 @@ code[class*=language-], pre[class*=language-] {
 .gallery-img:hover {
   opacity: .7;
 }
+
+.post-content { 
+  h2, h3 {
+  background-color: black;
+  color: white;
+  padding-left: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+} 
