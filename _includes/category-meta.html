@@ -21,6 +21,9 @@
     {% elsif category contains "tipps" %}
         {% assign icon = "fa-solid fa-bell orange" %}
 
+    {% elsif category contains "obsidian" %}
+        {% assign icon = "fa-solid fa-diagram-project purple" %}
+
     {% endif %}
     <div class="post-category">
         <span><i class="{{ icon }}"></i>&nbsp;{{ category | capitalized }}</span>
