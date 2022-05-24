@@ -5,10 +5,12 @@ author:
 - Florian Schuttkowski
 excerpt: "In keinem anderen Spiel erlebe ich so viele Aha-Momente, so viele Gefühle und solch ein enormes Entwicklungspotenzial für spielerisches Können. Jeder Champion, möge er noch so oberflächlich erscheinen bietet, großes Potenzial. Ein guter Grund sich einen meiner Lieblingschamps einmal genauer anzusehen: Caitlyn."
 categories: spaß
-imageURL: https://github.com/flowinho/reboot/blob/main/assets/images/caitlyn-guide-longer-range.jpg?raw=true
+imageURL: https://github.com/flowinho/reboot/blob/main/assets/images/caitlyn-guide-profile.jpg?raw=true
 ---
 
 Seit dem Erscheinen von Wild Rift hat mich dieses Spiel im Griff. Ähnlich wie damals bei League of Legends am PC reizt mich die kompetitive Natur des Spiels und die unendliche Lernkurve enorm. In keinem anderen Spiel erlebe ich so viele Aha-Momente, so viele Gefühle und solch ein enormes Entwicklungspotenzial für spielerisches Können. Jeder Champion, möge er noch so oberflächlich erscheinen, bietet großes Potenzial. Ein guter Grund, sich einen meiner Lieblingschamps einmal genauer anzusehen: [Caitlyn](https://wildrift.leagueoflegends.com/en-us/champions/caitlyn/).
+
+![](https://github.com/flowinho/reboot/blob/main/assets/images/caitlyn-guide-profile.jpg?raw=true)
 
 ## Caitlyn Kiramman, Sheriff of Piltover - Base Stats
 
