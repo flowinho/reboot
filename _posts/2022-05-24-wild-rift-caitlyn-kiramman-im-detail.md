@@ -5,7 +5,7 @@ author:
 - Florian Schuttkowski
 excerpt: "In keinem anderen Spiel erlebe ich so viele Aha-Momente, so viele Gefühle und solch ein enormes Entwicklungspotenzial für spielerisches Können. Jeder Champion, möge er noch so oberflächlich erscheinen bietet, großes Potenzial. Ein guter Grund sich einen meiner Lieblingschamps einmal genauer anzusehen: Caitlyn."
 categories: spaß
-imageURL: https://github.com/flowinho/reboot/blob/main/assets/images/caitlyn-guide-longer-range.jpg
+imageURL: https://github.com/flowinho/reboot/blob/main/assets/images/caitlyn-guide-longer-range.jpg?raw=true
 ---
 
 Seit dem Erscheinen von Wild Rift hat mich dieses Spiel im Griff. Ähnlich wie damals bei League of Legends am PC reizt mich die kompetitive Natur des Spiels und die unendliche Lernkurve enorm. In keinem anderen Spiel erlebe ich so viele Aha-Momente, so viele Gefühle und solch ein enormes Entwicklungspotenzial für spielerisches Können. Jeder Champion, möge er noch so oberflächlich erscheinen, bietet großes Potenzial. Ein guter Grund, sich einen meiner Lieblingschamps einmal genauer anzusehen: [Caitlyn](https://wildrift.leagueoflegends.com/en-us/champions/caitlyn/).
@@ -37,7 +37,7 @@ Ich habe mehrfach an anderen Spielern und mir selbst beobachtet, dass das enorme
 |:-:|:-:|
 |Normale Reichweite, *Screenshot*|Durch Fähigkeiten verdoppelte Reichweite, *Screenshot*|
 
-- Die Reichweite von »Headshot« wird die Fähigkeiten »Yordle Snap Trap« und »90 Caliber Net« **verdoppelt**. Diese Funktionalität sollte vor allem im Early Game genutzt werden, um die Lane Gegner effektiv zu poken.
+- Die Reichweite von »Headshot« wird durch die Fähigkeiten »Yordle Snap Trap« und »90 Caliber Net« **verdoppelt**. Diese Funktionalität sollte vor allem im Early Game genutzt werden, um die Lane Gegner effektiv zu poken.
 - **Die Anzahl abgegebener Schüsse** sollte man trotz visuellem Indikator **im Kopf mitzählen**, auf diese Weise kann man sich auf den Kampf konzentrieren und bekommt zudem ein besseres Gefühl für die aktuelle Angriffsgeschwindigkeit.
 - »Headshot« lässt sich mehrfach hintereinander anwenden, was die DPS enorm erhöht. Hat man bereits 5 Schüsse abgefeuert, lassen sich mit in Kombination mit »Yordle Snap Trap« und »90 Caliber Net« bis zu **drei Headshots hintereinander abfeuern**.
 - Die Verfügbarkeit eines **Headshot lädt sich doppelt so schnell auf, wenn man in einem Busch steht**. Da ein Busch, sofern er nicht gewardet ist, Schutz davor bietet von Gegnern anvisiert zu werden, sollte man während eines Kampfs, falls möglich, sich Richtung Büsche orientieren. Insbesondere in der Laning Phase oder während frühen Invades ist diese Mechanik sehr stark. Durch ein Stehen im Busch ist **»Headshot« für jede dritte Auto Attack** verfügbar.
@@ -152,12 +152,13 @@ video {
 Allgemein gelten zusätzlich zu den unteren Tipps die grundsätzlichen Vorgehensweisen jedes ADC. Positioning, Stutter Stepping und richtiger Fokus sind und bleiben vermutlich immer relevant.
 
 ### Ideale Reihenfolge Level-Up der Fähigkeiten
+
 |Heldenlevel|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Piltover Peacemaker|⬆️|||⬆️||⬆️|⬆️||||||||
-|Yordle Snap Trap|||⬆️|||||||||⬆️||⬆️|⬆️
-|90 Caliber Net||⬆️||||||⬆️||⬆️|⬆️||||
-|Ace in the Hole|||||⬆️||||⬆️||||⬆️||
+|Yordle Snap Trap|||⬆️|||||||||⬆️||⬆️|⬆️|
+|90 Caliber Net||⬆️||||||⬆️||⬆️|⬆️|||||
+|Ace in the Hole|||||⬆️||||⬆️||||⬆️|||
 
 ## Combos – DPS maximieren
 
