@@ -1,4 +1,4 @@
-—
+---
 layout: post
 title: "Selbstorganisation: Apps lösen keine Probleme"
 author:
@@ -6,8 +6,7 @@ author:
 excerpt: "In einer der letzten Folgen von Audiodump unterhielten wir Hosts uns über Produktivität, mögliche Systeme und Versprechen von Produktivitäts-Apps. Während und nach der Sendung wurde ich darum gebeten, mein “System” mit mehreren Hörern zu teilen. Sogar Telefonate wurde gewünscht. Ich fühle mich davon sehr geehrt, zeigt es doch, dass anderen Menschen die Arbeit, die ich in dieses Thema gesteckt habe, möglicherweise erspart bleibt."
 categories: erkenntnis
 imageURL: https://github.com/flowinho/reboot/blob/main/assets/images/ein-guter-plan.jpg?raw=true
-—
-
+---
 
 In einer der letzten Folgen von Audiodump unterhielten wir Hosts uns über Produktivität, mögliche Systeme und Versprechen von Produktivitäts-Apps. Während und nach der Sendung wurde ich darum gebeten, mein “System” mit mehreren Hörern zu teilen. Sogar Telefonate wurde gewünscht. Ich fühle mich davon sehr geehrt, zeigt es doch, dass anderen Menschen die Arbeit, die ich in dieses Thema gesteckt habe, möglicherweise erspart bleibt. Nun also der Erste von mehreren Posts zum Thema Selbstorganisation.
 
