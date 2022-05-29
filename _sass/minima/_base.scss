@@ -283,22 +283,23 @@ table {
   width: 100%;
   text-align: $table-text-align;
   color: $table-text-color;
-  border-collapse: collapse;
+
+  --radius: 8px;
   border: 1px solid $table-border-color;
-  tr {
-    &:nth-child(even) {
-      background-color: $table-zebra-color;
-    }
-  }
+  border-radius: var(--radius);
+  border-spacing: 0;
+  
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
+  
+  tr:first-child>:first-child { border-top-left-radius: var(--radius); }
+  tr:first-child>:last-child { border-top-right-radius: var(--radius); }
+  tr:last-child>:first-child { border-bottom-left-radius: var(--radius); }
+  tr:last-child>:last-child { border-bottom-right-radius: var(--radius); }
+
   th {
-    background-color: $table-header-bg-color;
-    border: 1px solid $table-header-border;
-  }
-  td {
-    border: 1px solid $table-border-color;
+    background: $table-header-bg-color;
   }
 
   @include media-query($on-laptop) {
