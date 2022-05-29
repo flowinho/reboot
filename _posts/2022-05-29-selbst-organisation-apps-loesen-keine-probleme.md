@@ -22,7 +22,7 @@ Ein sehr unterhaltsames und absolut zu empfehlendes Video zum Thema “Pandemie 
 
 |![](/assets/images/omnifocus-things-todoist.png)|
 |:-:|
-|Omnifocus, Things und Todoist. Wundervoll gearbeitete, tolle Werkzeuge, die nur helfen, wenn man sie anzuwenden weiß.|
+|Omnifocus, Things und Todoist. Wundervoll gearbeitete, tolle Werkzeuge, die nur helfen, wenn man sie anzuwenden weiß. _Screenshot_|
 
 Fallt nicht auf Werbeversprechen von Apps rein. Es gibt eine Vielzahl hervorragender Apps, die auf enorme Art und Weise eure Produktivität steigern können. Aber genau hier liegt die Gefahr. Weil viele Menschen diese Apps tatsächlich bereichernd einsetzen, erhalten in der Regel die Konsumenten und seltener die Entwickler der Software den Eindruck, dass die App, also das Produkt selbst, eine “Methodik zur Selbstorganisation” darstellt. Dem ist nicht so. Es gibt hier eine wundervolle Analogie von Software-Entwickler-Halbgott [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin), der in einem Interview einmal sagte “a developer has to know his tools, but the tool won’t work for you”. Als ich während meines Studiums der angewandten Informatik auf dieses Zitat traf, war mir erst nicht klar, was genau er meinte. Es wirkt allzu offensichtlich, dass sich Programmcode nicht von allein schreibt. Erst später kam ich zur Erkenntnis, was “Uncle Bob” wirklich meinte, indem ich mir das Zitat mit einer eigenen Metapher erklärte: mit dem Werkzeug eines Handwerkers. Ein Handwerker kann mit jedem noch so teueren, qualitativ hochwertigen und fortgeschrittenen Werkzeug erst eine Reparatur vornehmen, wenn er weiß, was das Problem ist, und wie er es beheben kann. Das Werkzeug ist ihm eine Hilfe, eine Unterstützung, aber es löst nicht das Problem.
 
