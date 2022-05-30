@@ -24,6 +24,8 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          <i class="fa fa-sun" style="color: #ebb434;" onclick="toggleDarkMode()"></i> |
+          <i class="fa fa-moon" style="color: #6596d6;" onclick="toggleDarkMode()"></i>
         </div>
       </nav>
     {%- endif -%}
