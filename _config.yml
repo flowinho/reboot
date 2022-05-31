@@ -13,7 +13,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-permalink: /blog/:year/:title/
+permalink: /:year/:title/
 
 # Minima settings
 header_pages:
