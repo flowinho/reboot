@@ -24,15 +24,7 @@
         color: white;
         background-color: #004e7a;
     }
-    blockquote {
-        color: #1d92d5;
-    }
-    .post-meta {
-        color: #1d92d5;
-    }
-    .footer-col {
-        color: #1d92d5;
-    }
+    
     .site-nav {
         background-color: #1d1d1d;   
 
@@ -41,7 +33,7 @@
         }
     }
 
-    .site-title {
+    blockquote, .site-title, .post-meta, .footer-col {
         color: #1d92d5;
     }
 
