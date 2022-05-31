@@ -278,6 +278,12 @@ pre {
 /**
  * Tables
  */
+
+table {
+  img {
+    border-radius: 8px;
+  }
+}
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
