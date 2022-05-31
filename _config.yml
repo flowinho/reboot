@@ -4,8 +4,9 @@ description: >-
   Alle Inhalte auf dieser Website sind den Menschen gewidmet, die mein Leben lebenswert machen und meinem Alltag Bedeutung, Liebe und Sinn geben: meinen Töchtern, meiner Partnerin, 
   meinen Freunden und meiner Familie. Die hier wiedergegebenen Meinungen sind Momentaufnahmen und spiegeln unter Umständen nicht meine aktuellen Ansichten wieder. 
   Ich schreibe hier nicht im Auftrag meiner Arbeitgeber.
+author: "Florian Schuttkowski"
 baseurl: "" 
-url: "" 
+url: "https://derflo.io" 
 
 # Build settings
 theme: minima
