@@ -19,7 +19,6 @@ permalink: /:year/:title/
 header_pages:
   - about.md
   - images.md
-  - card.md
 
 # This is to disable Rouge, Jekylls default syntax highlighter on GitHub Pages
 show_excerpts: true
