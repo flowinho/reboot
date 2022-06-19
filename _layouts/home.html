@@ -44,7 +44,7 @@
           {%- if post.imageURL -%}
             <div class="article-image-container">
               <a href="{{ post.url | relative_url }}">
-                <img src="{{ post.imageURL }}" class="article-image" >
+                <img src="{{ post.imageURL }}" class="article-image lazyload" >
               </a>
             </div>
           {%- endif -%}
