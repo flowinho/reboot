@@ -1,4 +1,4 @@
----
+i---
 layout: page
 title: Verwendete Open-Source Software
 permalink: /opensource/
@@ -10,6 +10,7 @@ permalink: /opensource/
 |PrismJS|Hervorhebung der Programmcodes innerhalb von Blog-Posts.|[MIT](https://github.com/PrismJS/prism/blob/master/LICENSE)|[https://github.com/PrismJS/prism](https://github.com/PrismJS/prism)|
 |Draw.io / Diagrams.net|Diagramme innerhalb von Blog-Posts.|[Apache2](https://github.com/jgraph/drawio/blob/dev/LICENSE)|[https://github.com/jgraph/drawio](https://github.com/jgraph/drawio)|
 |Font Awesome|Schriftzeichen und Icons auf der gesamten Website.|[Font Awesome Free License](https://github.com/FortAwesome/Font-Awesome/blob/6.x/LICENSE.txt)|[https://github.com/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)|
+|LazySizes|High Performace Lazy Loading.|[MIT](https://github.com/aFarkas/lazysizes/blob/gh-pages/LICENSE)|[https://github.com/aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)|
 
 |Font|Verwendungszweck|Lizenz|Link|
 |:--|:--|:--|:--|
