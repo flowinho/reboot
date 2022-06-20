@@ -47,6 +47,6 @@ Da Minima eine One-Size-Fits-All-Theme ist, beinhaltet sie viele Funktionalität
 |Social Media Icons entfernt|637.23 kB|301 ms|770 ms|
 |Löschen von Disqus und Google Analytics|635.67 kB|304 ms|768 ms|
 
-Es also keine große Verbesserung. Dieses Ergebnis war zu erwarten, da die entsprechenden `_includes` ohnehin nicht verwendert wurden.
+Es gab also keine große Verbesserung. Dieses Ergebnis war zu erwarten, da die entsprechenden `_includes` ohnehin nicht verwendert wurden.
 
 Leider lässt sich kaum mehr optimieren. Es gibt noch allgemeine Tipps, wie das komprimieren von Bildern in Base64-Strings, aber an der Minima-Theme selbst lässt sich kaum noch herumschrauben.
