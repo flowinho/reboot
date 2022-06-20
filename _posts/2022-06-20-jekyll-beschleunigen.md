@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ladezeiten des Jekyll-Standard-Themes verkürzen
+title: "Ladezeiten des Jekyll-Standard-Themes verkürzen"
 tags: jekyll css javascript fonts
 ---
 
