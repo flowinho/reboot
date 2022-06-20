@@ -6,12 +6,12 @@
     src: url("/assets/fonts/Literata-Light.ttf");
 }
 @font-face {
-    font-family: "Literata-SemiBold";
-    src: url("/assets/fonts/Literata-SemiBold.ttf");
-}
-@font-face {
     font-family: "Hack-Regular";
     src: url("/assets/fonts/Hack-Regular.ttf");
+}
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url("/assets/fonts/Montserrat-Regular.ttf");
 }
 
 pre, code {
@@ -19,7 +19,8 @@ pre, code {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #1c67ca;
+    color: #0d4997;
+    font-family: $heading-font-family;
 }
 
 * {
@@ -34,4 +35,9 @@ table {
 .post-readingtime {
         font-size: $small-font-size;
         color: #905;
+}
+
+.post-title, .post-content h1 {
+    letter-spacing: 0px;
+    margin-bottom: 0px;
 }
