@@ -1,0 +1,18 @@
+title: derFlo.io
+author: "Florian Schuttkowski"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+permalink: /:year/:title/
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true

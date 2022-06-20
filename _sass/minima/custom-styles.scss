@@ -1,0 +1,23 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+// Literata font
+@font-face {
+    font-family: "Literata-Light";
+    src: url("/assets/fonts/Literata-Light.ttf");
+}
+@font-face {
+    font-family: "Literata-SemiBold";
+    src: url("/assets/fonts/Literata-SemiBold.ttf");
+}
+@font-face {
+    font-family: "Hack-Regular";
+    src: url("/assets/fonts/Hack-Regular.ttf");
+}
+
+pre, code {
+    font-family: "Hack-Regular";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #dd4a68;
+}
