@@ -31,13 +31,6 @@ table {
     @include relative-font-size(0.9);
 }
 
-.greeting {
-    border-bottom: 1px solid #e8e8e8;
-    padding-bottom: 30px;
-    margin-bottom: 30px;
-    color: #414141;
-}
-
 .post-readingtime {
         font-size: $small-font-size;
         color: #905;
