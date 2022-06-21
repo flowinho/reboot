@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blooline: Eren, Mikasa & Levi auch mit Low-Level Heroes bezwingen"
+title: "Bloodline: Eren, Mikasa & Levi auch mit Low-Level Heroes bezwingen"
 tags: bloodline gaming iphone attack-on-titan
 ---
 
