@@ -6,7 +6,7 @@ tags: bloodline gaming iphone attack-on-titan
 
 |![](/assets/posts/crunchyroll-bloodline-4.png)|
 |:-:|
-|Auch mit Heldem um Level 20 lassen sich die Helden des Aufklärungstrupps bezwingen. *Quelle: Screenshot, Rechte: Crunchyroll*|
+|Auch mit Helden um Level 20 lassen sich das Dreigestirn des Aufklärungstrupps bezwingen. *Quelle: Screenshot, Rechte: Crunchyroll*|
 
 Die erste Challenge in der Attack on Titan Collab von Bloodline lässt sich recht einfach lösen, wenn man die Reihenfolge der Ziele aus den Raid-Beschreibungen ableitet.
 
