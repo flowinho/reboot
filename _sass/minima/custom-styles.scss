@@ -97,3 +97,18 @@ p, li {
         @include relative-font-size(0.8);
     }
 }
+
+.footnotes::before {
+    font-weight: bold;
+    content: "Fußnoten: ";
+}
+  
+.footnotes {
+    margin-top: 80px;
+    border-top: 1px solid #dee1e9;
+    padding-top: 16px;
+
+    ol {
+        margin-top: 16px;
+    }
+}
