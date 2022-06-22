@@ -91,3 +91,9 @@ video {
     height: auto;
     width: 100%;
 }
+
+p, li {
+    code {
+        @include relative-font-size(0.8);
+    }
+}
