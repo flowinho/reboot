@@ -10,7 +10,7 @@ Mehrere Tage lang hatte ich das Problem, `git push` nicht mehr durchführen zu k
 |:-:|
 |An der roten Linie kann man erkennen, dass ich `git push` abbrechen musste, nach Ausführen des Git Garbage Collectors läuft der Prozess problemlos durch.|
 
-Durch [diesen Stack Overflow Post](https://stackoverflow.com/questions/39008395/git-push-stuck-after-total-when-using-terminalhttps://stackoverflow.com/questions/39008395/git-push-stuck-after-total-when-using-terminal) wurde ich dann darauf aufmerksam gemacht, dass Git über einen Garbage Collector verfügt.
+Durch [diesen Stack Overflow Post](https://stackoverflow.com/questions/39008395/git-push-stuck-after-total-when-using-terminal) wurde ich dann darauf aufmerksam gemacht, dass Git über einen Garbage Collector verfügt.
 
 Siehe da, Problem gelöst. 
 
