@@ -94,16 +94,7 @@ Ich habe mehrfach an anderen Spielern und mir selbst beobachtet, dass das enorme
 - »Yordle Snap Trap« in einem Busch wird für den gegnerischen Spieler sichtbar, sobald dieser den Busch betritt. Es ist daher effektiv, die Fallen an den Anfang des Busches zu platzieren, um die Wahrscheinlich zu erhöhen, dass ein Champion die Falle auslöst.
 - Im Kampf sollten Traps direkt unter den Gegner ausgelegt werden, um die passive Fähigkeit »Headshot« zu aktivieren. 
 
-<style>
-video {
-  height: auto;
-  width: 100%;
-}
-</style>
-
-<video  controls>
-    <source src="https://cloud.fschuttkowski.xyz/s/tfBqY5FxpcQF6Bz/download/RPReplay_Final1653038536.mp4" type="video/mp4">
-</video>
+{% include video.html path="https://cloud.fschuttkowski.xyz/s/tfBqY5FxpcQF6Bz/download/RPReplay_Final1653038536.mp4" text="Wie man die Vision Plant denied. Rechte: Riot Games" %}
 
 ## Fähigkeit 3 (E) - 90 Caliber Net
 
