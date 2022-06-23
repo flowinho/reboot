@@ -4,7 +4,7 @@ title: "git push hängt nicht mehr. TIL Git hat nen Garbage Collector?!"
 tags: development git macos github garbage-collector
 ---
 
-Mehrere Tage lang hatte ich das Problem, `git push` nicht mehr durchführen zu können. Ich konnte Commits weder zu GitHub, noch zu Azure DevOps Repositories schieben. 
+Mehrere Tage lang hatte ich das Problem, `git push` nicht mehr durchführen zu können. Ich konnte Commits weder zu GitHub, noch zu Azure DevOps Repositories schieben.
 
 |![Screenshot eines Terminals, welches verschiedene GIT-Actions zeigt.](/assets/posts/git-push-terminal.png)|
 |:-:|
