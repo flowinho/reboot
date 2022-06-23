@@ -4,7 +4,7 @@ title: "Bloodline: Eren, Mikasa & Levi auch mit Low-Level Heroes bezwingen"
 tags: bloodline gaming iphone attack-on-titan
 ---
 
-|![](/assets/posts/crunchyroll-bloodline-4.png)|
+|![Screenshots von Bloodline](/assets/posts/crunchyroll-bloodline-4.png)|
 |:-:|
 |Auch mit Helden um Level 20 lassen sich das Dreigestirn des Aufklärungstrupps bezwingen. *Quelle: Screenshot, Rechte: Crunchyroll*|
 
@@ -16,8 +16,8 @@ Die erste Challenge in der Attack on Titan Collab von Bloodline lässt sich rech
 |Mikasa|Mikasa hat eine hohe Crit-Rate.|
 |Eren|Eren heilt sich jede Runde ein wenig. Stirbt er, **während Levi noch lebt, wird sein Titan schwächer.** Stirbt er hingegen, **während Levi schon tot, hält er sich als Titan nicht mehr zurück.** Stirbt Mikasa, verwandelt sich Eren sofort in einen Titan, der stärker ist, als wenn Mikasa nicht stirbt.|
 
-Soso, Eren hält sich also selbst als Titan noch zurück, solange Levi noch auf dem Feld ist. 🤣 Das erinnert mich an die Szene vor dem Militärgericht, also Levi seinen Schuh ins Gesicht drückt und verdeutlicht: 
+Soso, Eren hält sich also selbst als Titan noch zurück, solange Levi noch auf dem Feld ist. 🤣 Das erinnert mich an die Szene vor dem Militärgericht, also Levi seinen Schuh ins Gesicht drückt und verdeutlicht:
 
 > „Glaub ja nicht, ich könnte dich nicht jederzeit töten!“ -- Captain Levi
 
-Aus dem Raid-Bericht leitet sich also ab: Zuerst sollte man Eren töten, dann Mikasa, dann Levi. 
+Aus dem Raid-Bericht leitet sich also ab: Zuerst sollte man Eren töten, dann Mikasa, dann Levi.

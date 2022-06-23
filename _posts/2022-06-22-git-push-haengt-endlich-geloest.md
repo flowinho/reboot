@@ -6,13 +6,13 @@ tags: development git macos github garbage-collector
 
 Mehrere Tage lang hatte ich das Problem, `git push` nicht mehr durchführen zu können. Ich konnte Commits weder zu GitHub, noch zu Azure DevOps Repositories schieben. 
 
-|![](/assets/posts/git-push-terminal.png)|
+|![Screenshot eines Terminals, welches verschiedene GIT-Actions zeigt.](/assets/posts/git-push-terminal.png)|
 |:-:|
 |An der roten Linie kann man erkennen, dass ich `git push` abbrechen musste, nach Ausführen des Git Garbage Collectors läuft der Prozess problemlos durch.|
 
 Durch [diesen Stack Overflow Post](https://stackoverflow.com/questions/39008395/git-push-stuck-after-total-when-using-terminal) wurde ich dann darauf aufmerksam gemacht, dass Git über einen Garbage Collector verfügt.
 
-Siehe da, Problem gelöst. 
+Siehe da, Problem gelöst.
 
 Zeit sich den GIT Garbage Collector etwas genauer anzuschauen.
 

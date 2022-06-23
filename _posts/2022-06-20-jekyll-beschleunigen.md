@@ -16,7 +16,7 @@ Als Benchmark soll mir [dieser Blogpost dienen](https://derflo.io/2022/meetings-
 |:--|:-:|:-:|:-:|
 |Ursprünglich|652.86 kB|962 ms|1.100 ms|
 
-**Entfernen der Minima Social Icons**
+## Entfernen der Minima Social Icons
 
 Das aktuelle Standard-Theme „Minima“ kommt mit allerlei Icons für soziale Netzwerke daher. Diese befinden sich zwar im SVG-Format, allerdings nutze ich diese Icons nicht. Würde ich Social Media Icons brauchen, würde ich vermutlich die Implementierung eines [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) bevorzugen.
 
@@ -34,7 +34,7 @@ Nach Entfernung der enstprechenden Assets ergaben sich folgende Messwerte:
 
 Eine Reduktion der Ladezeit um ~42%.
 
-**Entfernen von unnötigen Funktionalitäten**
+## Entfernen von unnötigen Funktionalitäten
 
 Da Minima eine One-Size-Fits-All-Theme ist, beinhaltet sie viele Funktionalitäten, die ich nicht benötige. Ich entferne also:
 

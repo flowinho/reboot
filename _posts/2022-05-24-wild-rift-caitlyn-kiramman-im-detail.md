@@ -6,7 +6,7 @@ tags: gaming wild-rift caitlyn adc guide
 
 Seit dem Erscheinen von Wild Rift hat mich dieses Spiel im Griff. Ähnlich wie damals bei League of Legends am PC reizt mich die kompetitive Natur des Spiels und die unendliche Lernkurve enorm. In keinem anderen Spiel erlebe ich so viele Aha-Momente, so viele Gefühle und solch ein enormes Entwicklungspotenzial für spielerisches Können. Jeder Champion, möge er noch so oberflächlich erscheinen, bietet großes Potenzial. Ein guter Grund, sich einen meiner Lieblingschamps einmal genauer anzusehen: [Caitlyn](https://wildrift.leagueoflegends.com/en-us/champions/caitlyn/).
 
-|![](/assets/posts/caitlyn-guide-profile.jpg)|
+|![Screenshot meines Wild Rift Profils](/assets/posts/caitlyn-guide-profile.jpg)|
 |:-:|
 |Mein Wild Rift Profil, *Screenshot*|
 
@@ -33,7 +33,7 @@ Seit dem Erscheinen von Wild Rift hat mich dieses Spiel im Griff. Ähnlich wie d
 
 Ich habe mehrfach an anderen Spielern und mir selbst beobachtet, dass das enorme Potenzial dieser passiven Fähigkeit viel zu wenig Beachtung bekommt. Dabei ist das effektive Nutzen und Einsetzen von »Headshot« absolut essenziell. Durch die Anzeige der abgegebenen Schüsse direkt unter dem Lebensbalken des Spielers könnte es nicht einfacher sein, die Anzahl Schüsse, die Caitlyn bereits abgegeben hat, mitzuzählen. 
 
-|![](/assets/posts/caitlyn-guide-normal-range.jpg)|![](/assets/posts/caitlyn-guide-longer-range.jpg)|
+|![Screenshot der die normale Range von Caitlyns Q zeigt.](/assets/posts/caitlyn-guide-normal-range.jpg)|![Screenshot der die erweiterte Range von Caitlyns Q zeigt.](/assets/posts/caitlyn-guide-longer-range.jpg)|
 |:-:|:-:|
 |Normale Reichweite, *Screenshot*|Durch Fähigkeiten verdoppelte Reichweite, *Screenshot*|
 
@@ -90,9 +90,10 @@ Ich habe mehrfach an anderen Spielern und mir selbst beobachtet, dass das enorme
 - Da die Trap den Gegner rooted, lohnt es sich **sofort einen »Peacemaker« auf den Weg zu bringen, da der Champion auf jeden Fall den vollen Schaden davontragen wird**, auch wenn andere Champions oder Minions vor ihm stehen.
 
 ### Zur Positionierung von Yordle Snap Trap
+
 - Sind mehrere Traps vorhanden, lassen sich damit zuverlässig engere Zugänge auf der Karte, z. B. die Dragon Ramp, blockieren.
 - »Yordle Snap Trap« in einem Busch wird für den gegnerischen Spieler sichtbar, sobald dieser den Busch betritt. Es ist daher effektiv, die Fallen an den Anfang des Busches zu platzieren, um die Wahrscheinlich zu erhöhen, dass ein Champion die Falle auslöst.
-- Im Kampf sollten Traps direkt unter den Gegner ausgelegt werden, um die passive Fähigkeit »Headshot« zu aktivieren. 
+- Im Kampf sollten Traps direkt unter den Gegner ausgelegt werden, um die passive Fähigkeit »Headshot« zu aktivieren.
 
 {% include video.html path="https://cloud.fschuttkowski.xyz/s/tfBqY5FxpcQF6Bz/download/RPReplay_Final1653038536.mp4" text="Wie man die Vision Plant denied. Rechte: Riot Games" %}
 
@@ -110,13 +111,13 @@ Ich habe mehrfach an anderen Spielern und mir selbst beobachtet, dass das enorme
 |Dauer des Slow|1s|1s|1s|1s|
 |Cooldown|16|14|12|10|
 
-- Bei einem Tower Dive ist es ratsam, »90 Caliber Net« aufzubewahren, um sich mithilfe des Rückstoßes schneller zurückziehen zu können.
-- Analog zu »Yordle Snap Trap« löst »90 Caliber Net« die passive Fähigkeit »Headshot« aus.
-- 90 Caliber Net kann Mauern überwinden.
-- Gegnerische Fähigkeiten kann mit dieser Fähigkeit ausgewichen werden.
-- »90 Caliber Net« zählt als Projektil, Zauber und Root:
-	- Es wird von Fähigkeiten wie Yasuos Windwall oder Morganas Spellshield geblockt.
-	- Es zählt als Root, triggert also Fähigkeiten, die einen Root vorraussetzen, z. B. »Piltover Peacemaker«.
+1. Bei einem Tower Dive ist es ratsam, »90 Caliber Net« aufzubewahren, um sich mithilfe des Rückstoßes schneller zurückziehen zu können.
+1. Analog zu »Yordle Snap Trap« löst »90 Caliber Net« die passive Fähigkeit »Headshot« aus.
+1. 90 Caliber Net kann Mauern überwinden.
+1. Gegnerische Fähigkeiten kann mit dieser Fähigkeit ausgewichen werden.
+1. »90 Caliber Net« zählt als Projektil, Zauber und Root:
+   1. Es wird von Fähigkeiten wie Yasuos Windwall oder Morganas Spellshield geblockt.
+   1. Es zählt als Root, triggert also Fähigkeiten, die einen Root vorraussetzen, z. B. »Piltover Peacemaker«.
 
 ## Ultimate (Q) - Ace in the Hole
 
@@ -140,6 +141,7 @@ Ich habe mehrfach an anderen Spielern und mir selbst beobachtet, dass das enorme
 
 
 ## Gameplay
+
 Allgemein gelten zusätzlich zu den unteren Tipps die grundsätzlichen Vorgehensweisen jedes ADC. Positioning, Stutter Stepping und richtiger Fokus sind und bleiben vermutlich immer relevant.
 
 ### Ideale Reihenfolge Level-Up der Fähigkeiten
@@ -160,6 +162,7 @@ Wie bei jedem ADC ist auch bei Caitlyn das vorrangige Ziel, so viel Schaden wie 
 Eine Kombo die besonders relevant wird wenn man vor einem Nahkämpfer davonläuft.
 
 ## Items
+
 Tendenziell gibt es keine »feste Reihenfolge« in der man Items kaufen sollte. Manche Items sind zusätzlich Anti-Meta. Durch das aktuelle Heal-Meta ist es sehr wichtig, frühestmöglich in Anti-Heal zu investieren. Durch die neue Rune »Lethal Tempo« lässt sich beispielsweise ein Mortal Reminder als drittes Item anstreben, da die Rune selbst genug Attack Speed liefert.
 
 |Item|Warum es auf Caitlyn interessant ist|
