@@ -5,4 +5,4 @@ for(i = 0; i < images.length; i++) {
     var innerHTML = parentElement.innerHTML;
     var imageSource = images[i].src
     parentElement.innerHTML = '<a href="' + imageSource + '">' + innerHTML + '</a>';
-    }
+}
