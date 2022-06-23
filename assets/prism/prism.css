@@ -15,7 +15,7 @@ code[class*="language-"] {
   color: #5c6e74;
   font-size: 0.9em;
   text-shadow: none;
-  font-family: "Hack-Regular",Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  font-family: "Hack-Regular", Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
   direction: ltr;
   text-align: left;
   white-space: pre;
@@ -47,13 +47,13 @@ pre[class*="language-"] {
   padding: 1em;
   margin: .5em 0;
   overflow: auto;
-  background: #f8f5ec;
+  background: #eff0f8;
 }
 :not(pre) > code[class*="language-"] {
   padding: .1em .3em;
   border-radius: .3em;
-  color: #db6dd9;
-  background: #f9f2f4;
+  color: #5c6e74;
+  background: #eff0f8;
 }
 /*********************************************************
 * Tokens
@@ -93,7 +93,7 @@ pre[class*="language-"] {
 .language-css .token.string,
 .style .token.string {
   color: #a67f59;
-  background: #ffffff;
+  background: #eff0f8;
 }
 .token.atrule,
 .token.attr-value,
