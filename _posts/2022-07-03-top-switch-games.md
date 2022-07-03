@@ -37,7 +37,7 @@ Pokémon Schwert und Schild sind die letzten Iterationen des Pokémon-Franchise.
 Stardew Valley ist ein Meisterwerk. Ein wunderschön gepixeltes, makellos gestaltetes Farm-Adventure im Stile der alten Harvest Moon Teile, dass aufregend und entspannend zugleich ist.
 Stardew Valley ist eines dieser Spiele, dass man schwer weglegen kann, wenn es den/die Spieler:in in seinen Bann gezogen hat.
 
-Eine endlose, entspanndende Todo-Liste. 
+Eine endlose, entspanndende Todo-Liste.
 
 ## Portal 2
 
