@@ -111,6 +111,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 # Anschließend die plugins in der ~/.zshrc hinzufügen
 ```
+
 Anschließend muss noch das eingestellte Theme in der `~/.zshrc` geändert werden.
 
 #### Aliase
