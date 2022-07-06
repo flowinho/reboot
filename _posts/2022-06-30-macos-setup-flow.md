@@ -63,9 +63,10 @@ Homebrew erlaubt dank seiner `cask`-Funktionalität die Installation von Apps Dr
 - Audacity
 - Signal
 - Alfred
+- DevonThink
 
 ```bash
-brew install --cask firefox keepassxc nextcloud fantastical obsidian github slack visual-studio-code appcleaner omnidisksweeper cyberduck audacity signal alfred
+brew install --cask firefox keepassxc nextcloud fantastical obsidian github devonthink slack visual-studio-code appcleaner omnidisksweeper cyberduck audacity signal alfred
 ```
 
 ### Installation wichtiger Terminal-Software
