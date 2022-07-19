@@ -14,7 +14,7 @@ Es ist mal wieder soweit: Ein neues Pokémon-Spiel steht an! Mit etwas Verzöger
 
 Pokémon Schwert und Schild gingen den richtigen Weg. Pokémon bewegen sich frei in den Gebieten. Je nach Tageszeit und Wetterbedingungen tauchen unterschiedliche von ihnen auf. Das fühlte sich schon sehr gut an. Ein toller Fortschritt. Aber erst durch den Open-World-Aspekt wird Pokémon zu dem, was sich mein zwolfjähriges Ich damals vorgestellt hatte: eine große, endlose Welt, in der Pokémon in wahrlich freier Wildbahn leben.
 
-Was sich in Schwert und Schild zwar schon toll, aber immer noch wie ein "riesiger Zoo" anfühlte, wird in Pokémon-Legenden: Arceus zu einer riesigen Welt, die so vielfältig wie die Anzahl Pokémon und so weitläufig wie die Länge des Pokédex ist. 
+Was sich in Schwert und Schild zwar schon toll, aber immer noch wie ein "riesiger Zoo" anfühlte, wird in Pokémon-Legenden: Arceus zu einer riesigen Welt, die so vielfältig wie die Anzahl Pokémon und so weitläufig wie die Länge des Pokédex ist.
 
 |![Ein Screenshot von Pokemon Arceus](https://cloud.fschuttkowski.xyz/s/TTtPzJxs43Hn7ti/download/2022021321554300-7CBCCE282CD36658AB28471FB4791102.jpg)|
 |:-:|
@@ -26,7 +26,7 @@ Ein paar dieser Aspekte:
 
 - Auf Bibern basierende Pokémon bauen Dämme. Dementsprechend sind sie besonders aggressiv in deren Nähe.
 - Flug-Pokémon gleiten über die Wildnis, oft nur als Schatten über dem Boden wahrnehmbar. Ein Blick nach oben offenbart dann das Pokémon.
-- Wasser-Pokémon, die eigentlich im Meer leben, leben genau dort. Sie können nicht einfach "geangelt" werden. 
+- Wasser-Pokémon, die eigentlich im Meer leben, leben genau dort. Sie können nicht einfach "geangelt" werden.
 - So manches Käfer-Pokémon muss erst von dem Baum, auf dem es gerade Sinel-Beeren frisst, geschubst werden.
 - Pokémon können scheu sein, neugierig, desinteressiert und aggressiv. Je nach Gemütszustand verhalten Sie sich anders.
 
@@ -34,7 +34,7 @@ Als würde man im Stil von "The Legend of Zelda: Breath of the Wild" durch eine 
 
 Oder eben einfach ruhig im Schilf versteckt darauf warten, dass das Abra, dass sich hier irgendwo herumteleportiert, hoffentlich Lust auf den Sinel-Beeren-Köder hat, den man als Spieler*in gerade ausgelegt hat.
 
-Es fühlt sich einfach genau richtig an. Es fühlte sich so an, als wäre die Serie an einem Punkt angekommen, an dem die Tiere ihren Platz in der Spiel-Mechanik gefunden haben. Nicht mehr irgendwo platzierte Polygone in einem digitalen Zoo, sondern echte Bewohner einer Welt, in der der Mensch eine kleinere, eine erkundende, eine ko-existierende Rolle spielt. 
+Es fühlt sich einfach genau richtig an. Es fühlte sich so an, als wäre die Serie an einem Punkt angekommen, an dem die Tiere ihren Platz in der Spiel-Mechanik gefunden haben. Nicht mehr irgendwo platzierte Polygone in einem digitalen Zoo, sondern echte Bewohner einer Welt, in der der Mensch eine kleinere, eine erkundende, eine ko-existierende Rolle spielt.
 
 ## Pokémon und Du: Wilde Pokémon sind endlich genau das, nämlich wild
 
@@ -58,12 +58,12 @@ Manche Pokémon leben in Rudeln innerhalb der Welt. Dieser Aspekt muss insofern 
 
 ### Pokémon sind gefährlich
 
-Pokémon sind nicht mehr einfach nur da, zum hübsch anschauen und in Kämpfe verwickeln, sondern sie stellen eine reale Gefahr für den/die Spieler*in dar. Denn sie setzen ihre Attacken auch außerhalb eines Kampfes ein. 
+Pokémon sind nicht mehr einfach nur da, zum hübsch anschauen und in Kämpfe verwickeln, sondern sie stellen eine reale Gefahr für den/die Spieler*in dar. Denn sie setzen ihre Attacken auch außerhalb eines Kampfes ein.
 
-Hier ein paar Beispiele: 
+Hier ein paar Beispiele:
 
 - Es ist ein großes Problem, von der Hypnose eines Alpollo getroffen zu werden, da man einschläft und wehrlos gegen weitere Attacken ist.
-- Einem wilden Parasek sollte man sich nicht einfach nähern, es sei denn man möchte sehr schnell dessen Scheren zu spüren zu bekommen. 
+- Einem wilden Parasek sollte man sich nicht einfach nähern, es sei denn man möchte sehr schnell dessen Scheren zu spüren zu bekommen.
 - Der Windstoss eines Flug-Pokémon kann einen schon mal aus den Latschen werfen.
 
 Wird man zu oft von den Angriffen der wilden Pokémon getroffen, wird man ohnmächtig, verliert einen Teil der Items in seiner Tasche und wacht in der nächstgelegenen Forschungsbasis auf.
